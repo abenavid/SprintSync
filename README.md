@@ -1,0 +1,2 @@
+# SprintSync
+Automate Sprint Boards 
